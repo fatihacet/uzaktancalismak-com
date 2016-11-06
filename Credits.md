@@ -1,0 +1,3 @@
+- Logo Font http://www.fontspace.com/tirado-co/northwest-bold
+- Jekyll Template https://github.com/luminousrubyist/airspace-jekyll
+- Jekyll Template ThemeFisher
