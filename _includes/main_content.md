@@ -13,7 +13,7 @@ Kendinize, ailenize, sevdiklerinize daha fazla zaman ayırabilirsiniz. Çalışm
 Evden çalışma lüksünüz olduğundan, ofise gelip gitmek için yolda harcayacağınız zamanı dinlenerek, ailenize veya kendinize ayırarak geçirebilirsiniz. Özellikle İstanbul gibi bir şehirde ofise gidip gelmek için günde 3-4 saat, hatta daha fazla zaman harcanıyor. Buna ek olarak trafikte zaman geçirmediğiniz için daha huzurlu olabilirsiniz.
 
 
-## Daha ucuz olmasi
+## Daha ucuz olması
 Hem çalışan, hem şirket için daha ucuzdur. Şirketler dünyanın her yerinden insanları ekiplerine dahil edebilecekleri için aylık maaş giderlerini düşürebilirler. Ofise kira vermek zorunda olmadıklarından aylık harcalamalarını önemli ölçüde azaltabilirler. Remote çalışan kişilerin ofise gidip gelme durumu olmadığı için, yol parası, benzin parası gibi giderleri de olmayacaktır.
 
 
@@ -66,7 +66,7 @@ Bu konuda yapılacak en etkili çözüm, çalışma saatlerinin esnekliğinden f
 
 
 ## Evdeki çalışma ortamı sıkıntısı
-Remote çalışmayı sürdürebilmenin en önemli şartı evde çalışabilecek bir ortamınızın olmasıdır. Güzel bir çalışma odası ile birlikte bilgisayar, monitor, hızlı internet ve kulaklik şart. Bunlara sahip olmanız bile evden çalışmayı sürdürebileceğiniz anlamına gelmeyebilir. Aynı evi paylaştığınız aile bireylerinin de bu konuda size destek olmasi gerekiyor. Evde olduğunuz çalışmadığınız anlamına gelmiyor. Aynı şekilde annenizin ya da eşinizin istediği anda size iş kitleyebileceği anlamına da gelmiyor.
+Remote çalışmayı sürdürebilmenin en önemli şartı evde çalışabilecek bir ortamınızın olmasıdır. Güzel bir çalışma odası ile birlikte bilgisayar, monitor, hızlı internet ve kulaklik şart. Bunlara sahip olmanız bile evden çalışmayı sürdürebileceğiniz anlamına gelmeyebilir. Aynı evi paylaştığınız aile bireylerinin de bu konuda size destek olması gerekiyor. Evde olduğunuz çalışmadığınız anlamına gelmiyor. Aynı şekilde annenizin ya da eşinizin istediği anda size iş kitleyebileceği anlamına da gelmiyor.
 
 Fakat remote çalışmaya yeni başladığınız da bununla karşılaşacaksınız ve bunu aile bireylerine anlatmanız gerekiyor. En basitinden çalışma odasının kapısı kapalı iken sizi çok gerekli olmadığı sürece rahatsız etmemelerini söyleyebilirsiniz. Bu her iki taraf için de adapte olması zaman gerektirecek bir davranış biçimi olabilir, sabır göstermeniz gerekebilir. Eğer evden çalışamıyorsanız co-working space'lerini tercih edebilirsiniz.
 
@@ -107,7 +107,7 @@ Remote çalışmanın olmazsa olmazı. İngilizce bilmiyorsanız, anadiliniz dı
 ### Çalışma odası
 Günde en az 6 saat geçireceğiniz bir odayı sizi en rahat ettirecek şekilde duzenleyin. Unutmayın bu sizin asıl işiniz. O yüzden televizyon karşısında, mutfakta masa üstünde veya salonda koltuk üstünde bu çalışma şekli sürdürülemez.
 
-Remote olmayan bir şirketin size sağladığı ofis gibi bir ofis oluşturmaya çalışın. Güzel bir bilgisayar, harici monitör veya monitörler, uzun süre oturduğunuzda rahatsız etmeyecek sandalye, büyük bir masa, odaklanmak istediğiniz anlar için kaliteli bir kulaklık, sesli müzik dinlemek istediğiniz zamanlar için güzel bir ses sistemi, sesli ve görüntülü görüşmeler için kamera ve mikrofon ve belki de en önemlisi hızlı internete sahip olmanız hayatınızı daha kolaylaştıracaktır. Unutmayın ekip arkadaşlarınız ile konuşmaya çalıştığınız anlarda internetinizin yavaş olmasi, kameranın onunden sürekli birilerinin gelip gecmesi, sesinizin karsi tarafa düzgün gitmemesi, arka planda gürültü olması gibi olumsuzluklar sizi profesyonel göstermeyecektir.
+Remote olmayan bir şirketin size sağladığı ofis gibi bir ofis oluşturmaya çalışın. Güzel bir bilgisayar, harici monitör veya monitörler, uzun süre oturduğunuzda rahatsız etmeyecek sandalye, büyük bir masa, odaklanmak istediğiniz anlar için kaliteli bir kulaklık, sesli müzik dinlemek istediğiniz zamanlar için güzel bir ses sistemi, sesli ve görüntülü görüşmeler için kamera ve mikrofon ve belki de en önemlisi hızlı internete sahip olmanız hayatınızı daha kolaylaştıracaktır. Unutmayın ekip arkadaşlarınız ile konuşmaya çalıştığınız anlarda internetinizin yavaş olması, kameranın onunden sürekli birilerinin gelip gecmesi, sesinizin karsi tarafa düzgün gitmemesi, arka planda gürültü olması gibi olumsuzluklar sizi profesyonel göstermeyecektir.
 
 
 ### Yapılacak iş yönetimi
