@@ -12,29 +12,6 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-
-# Site settings
-title: Remote Calismak
-subtitle: "Remote calismak ile ilgili hersey"
-# Base URL of site. It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
-# baseurl: "/" # the subpath of your site
-# url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
-# baseurl: "/"
-# cover: "/assets/cover.png"
-# logo: "/assets/logo.png"
-
-# Build settings
+title: "Remote Çalışmak"
+subtitle: "Remote çalışmak ile ilgili bilmek istediğiniz her şey"
 markdown: kramdown
-
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
-
-# Category descriptions (for archive pages)
-# descriptions:
-#   - cat: jekyll
-#     desc: "Posts describing Jekyll setup techniques."
-
-#   - cat: dummy
-#     desc: "Just some placeholder posts, lorem ipsum and the rest."
