@@ -1,5 +1,8 @@
 ## Lokasyon bagimsiz calismak
 Remote calismanin en buyuk avantajlarindan biri, calismak icin belirli bir yerde olma veya fiziksel bir ofise gidip gelme zorunlulugunun olmamasidir. Bilgisayarinizin ve internetin oldugu her yerde calisabilirsiniz. Deniz kenarindaki yazlik, evinizin balkonu veya akliniza gelen her yer calismak icin uygun olabilir. Hatta [calisarak dunyayi bile gezebilirsiniz](https://about.gitlab.com/2016/08/24/gitlab-in-action/).
+* TOC
+{:toc}
+
 
 
 ## Zaman konusunda esnek olabilmek
