@@ -42,7 +42,7 @@ Remote çalışmaya ilk başladığınızda uyum sağlamak oldukça zor olabilir
 ## İş ve hayat dengesini sağlayamamak
 Remote çalışmanın en zor ve en handikaplı olayı iş ve hayat dengesini sağlamaktır. Bizim sektörümüzdeki bir çok insan gününün çok büyük bir kısmını bilgisayarı ile geçirdiği ve işini sevdiği için "bilgisayarlarımıza aşık, hobisi kod yazmak olan insanlar" oluyoruz. Remote çalışma şeklinde kendinize "bir dur" demeniz gerekiyor. Aksi halde kendinizi günde 18 saat çalışıyorken bulabilirsiniz. Bu kesinlikle sürdürülebilir bir iş yapiş şekli değildir. 18 saat çalıştıktan sonra muhtemelen 10 saat uyuyacaksınız ve uyandığınızda kendinizi zinde hissetmeyeceksiniz ve bir sonraki çalışma günü için verimli olamayacaksınız.
 
-Herşeyden önemlisi ailenize, sevdiklerinize ayırdığınız vakitten feragat edeceksiniz. 10 saat uyurken ailenizle paylaşmak istediğiniz kahvaltıyı kaçıracaksınız, cocuğunuz uyandığı zaman siz uyuyor olacaksınız. Ailenizin uyumaya basladığı saatler sizin çalışma saatlerinizin ortasina denk gelecek ve o saatlerde biri sizi toplantıya cağırırsa evde millet uyurken kısık sesle toplantı yapmanin stresini yaşayacaksiniz. Bunu engellemek için çalışma saatlerinizi belirleyin ve ona uymaya özen gösterin.
+Her şeyden önemlisi ailenize, sevdiklerinize ayırdığınız vakitten feragat edeceksiniz. 10 saat uyurken ailenizle paylaşmak istediğiniz kahvaltıyı kaçıracaksınız, cocuğunuz uyandığı zaman siz uyuyor olacaksınız. Ailenizin uyumaya basladığı saatler sizin çalışma saatlerinizin ortasina denk gelecek ve o saatlerde biri sizi toplantıya cağırırsa evde millet uyurken kısık sesle toplantı yapmanin stresini yaşayacaksiniz. Bunu engellemek için çalışma saatlerinizi belirleyin ve ona uymaya özen gösterin.
 
 
 ## Zaman farklılıkları
