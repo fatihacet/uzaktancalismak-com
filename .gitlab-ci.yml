@@ -2,10 +2,8 @@ image: ruby:2.3
 pages:
   stage: deploy
   script:
-  - export LC_ALL=en_US.UTF-8
-  - export LANG=en_US.UTF-8
   - gem install jekyll
-  - jekyll build -d public
+  - LC_ALL="en_US.UTF-8" jekyll build -d public
   artifacts:
     paths:
     - public
