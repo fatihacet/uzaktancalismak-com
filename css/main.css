@@ -92,7 +92,8 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-position: 35% 0;
   height: calc(100% - 90px);
-  max-height: 600px;
+  max-height: 500px;
+  min-height: 640px;
   position: relative;
 }
 #slider:before {
