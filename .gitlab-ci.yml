@@ -1,17 +1,9 @@
 image: ruby:2.3
-test:
-  stage: test
-  script:
-  - gem install jekyll
-  - jekyll build -d test
-  artifacts:
-    paths:
-    - test
-  except:
-  - master
 pages:
   stage: deploy
   script:
+  - export LC_ALL=en_US.UTF-8
+  - export LANG=en_US.UTF-8
   - gem install jekyll
   - jekyll build -d public
   artifacts:
