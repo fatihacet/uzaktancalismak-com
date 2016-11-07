@@ -11,7 +11,7 @@ h2 {
   margin-top: 40px;
 }
 h3 {
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 400;
   margin-top: 30px;
 }
@@ -60,7 +60,17 @@ header .navbar {
   border: 0px;
 }
 header .navbar-brand {
-  padding-top: 5px;
+  padding: 0;
+  width: 300px;
+  display: inline-block;
+}
+header .logo {
+  width: 100%;
+  position: relative;
+  top: 6px;
+}
+header .navbar-toggle {
+  margin-top: 4px;
 }
 header .navbar-default {
   background: none;
@@ -76,11 +86,6 @@ header .navbar-default .navbar-nav li a {
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
-}
-header .logo {
-  width: 60%;
-  position: relative;
-  top: 6px;
 }
 #slider {
   background: url(../img/bg.jpg) no-repeat;
