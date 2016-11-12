@@ -76,8 +76,8 @@ header .navbar-default {
   background: none;
   border: 0px;
 }
-header .navbar-default .navbar-nav {
-  padding-top: 10px;
+header .navbar-default .navbar-nav li {
+  padding-top: 4px;
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
@@ -88,13 +88,24 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #000;
 }
 #slider {
-  background: url(../img/bg.jpg) no-repeat;
+  background-image: url('../img/bg.jpg');
   background-size: cover;
   background-position: 35% 0;
+  background-repeat: no-repeat;
   height: calc(100% - 90px);
   max-height: 500px;
   min-height: 640px;
   position: relative;
+}
+#slider.secondary {
+  background-image: url(../img/bg1.jpg);
+}
+#slider.alternative {
+  background-image: url(../img/bg2.jpg);
+}
+#slider.four-oh-no {
+  background-image: url(../img/404.jpg);
+  background-position: center center;
 }
 #slider:before {
   content: "";
@@ -123,7 +134,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 300;
   letter-spacing: 3px;
 }
-#main-content {
+.content-wrapper {
   margin: 40px 0 80px;
 }
 #main-content hr {
@@ -165,4 +176,17 @@ footer .footer-menu ul li a {
 }
 footer .footer-menu ul li a:hover {
   color: #000;
+}
+.call-for-action p {
+  font-size: 16px;
+}
+.call-for-action i {
+  font-size: 72px;
+  color: #676375;
+}
+.call-for-action.two-lines i {
+  font-size: 52px;
+}
+em {
+  font-size: 14px;
 }
