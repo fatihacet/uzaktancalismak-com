@@ -1,7 +1,7 @@
 * TOC
 {:toc}
 
-## Lokasyon bağımsız çalışmak
+## Mekan bağımsız çalışmak
 Remote çalışmanın en büyük avantajlarından biri, çalışmak için belirli bir yerde olma veya fiziksel bir ofise gidip gelme zorunluluğunun olmamasıdır. Bilgisayarınızın ve internetin olduğu her yerde çalışabilirsiniz. Deniz kenarındaki yazlık, evinizin balkonu veya aklınıza gelen her yer çalışmak için uygun olabilir. Hatta [calışarak dünyayı bile gezebilirsiniz](https://about.gitlab.com/2016/08/24/gitlab-in-action/).
 
 
