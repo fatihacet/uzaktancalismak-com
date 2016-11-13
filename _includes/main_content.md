@@ -40,15 +40,15 @@ Remote çalışmaya ilk başladığınızda uyum sağlamak oldukça zor olabilir
 
 
 ## İş ve hayat dengesini sağlayamamak
-Remote çalışmanın en zor ve en handikaplı olayı iş ve hayat dengesini sağlamaktır. Bizim sektörümüzdeki bir çok insan gününün çok büyük bir kısmını bilgisayarı ile geçirdiği ve işini sevdiği için "bilgisayarlarımıza aşık, hobisi kod yazmak olan insanlar" oluyoruz. Remote çalışma şeklinde kendinize "bir dur" demeniz gerekiyor. Aksi halde kendinizi günde 18 saat çalışıyorken bulabilirsiniz. Bu kesinlikle sürdürülebilir bir iş yapiş şekli değildir. 18 saat çalıştıktan sonra muhtemelen 10 saat uyuyacaksınız ve uyandığınızda kendinizi zinde hissetmeyeceksiniz ve bir sonraki çalışma günü için verimli olamayacaksınız.
+Remote çalışmanın en zor ve en handikaplı olayı iş ve hayat dengesini sağlamaktır. Bizim sektörümüzdeki bir çok insan gününün çok büyük bir kısmını bilgisayarı ile geçirdiği ve işini sevdiği için "bilgisayarlarımıza aşık, hobisi kod yazmak olan insanlar" oluyoruz. Remote çalışma şeklinde kendinize "bir dur" demeniz gerekiyor. Aksi halde kendinizi günde 18 saat çalışıyorken bulabilirsiniz. Bu kesinlikle sürdürülebilir bir iş yapış şekli değildir. 18 saat çalıştıktan sonra muhtemelen 10 saat uyuyacaksınız ve uyandığınızda kendinizi zinde hissetmeyeceksiniz ve bir sonraki çalışma günü için verimli olamayacaksınız.
 
-Her şeyden önemlisi ailenize, sevdiklerinize ayırdığınız vakitten feragat edeceksiniz. 10 saat uyurken ailenizle paylaşmak istediğiniz kahvaltıyı kaçıracaksınız, cocuğunuz uyandığı zaman siz uyuyor olacaksınız. Ailenizin uyumaya basladığı saatler sizin çalışma saatlerinizin ortasina denk gelecek ve o saatlerde biri sizi toplantıya cağırırsa evde millet uyurken kısık sesle toplantı yapmanin stresini yaşayacaksiniz. Bunu engellemek için çalışma saatlerinizi belirleyin ve ona uymaya özen gösterin.
+Her şeyden önemlisi ailenize, sevdiklerinize ayırdığınız vakitten feragat edeceksiniz. 10 saat uyurken ailenizle paylaşmak istediğiniz kahvaltıyı kaçıracaksınız, cocuğunuz uyandığı zaman siz uyuyor olacaksınız. Ailenizin uyumaya basladığı saatler sizin çalışma saatlerinizin ortasina denk gelecek ve o saatlerde biri sizi toplantıya cağırırsa evde millet uyurken kısık sesle toplantı yapmanin stresini yaşayacaksınız. Bunu engellemek için çalışma saatlerinizi belirleyin ve ona uymaya özen gösterin.
 
 
 ## Zaman farklılıkları
-Remote çalıştığınız zaman dünyanın herhangi bir yerinde yaşayan bir insan ile beraber çalışma olasılığınız var. Bu da çok ciddi zaman farklılıkları ortaya çıkarabilir. San Francisco ile İstanbul arasında 10 saatlik zaman farkı var. Bizde saat akşam 6 olduğu zaman, yani mesainizin bitmesi gerektiği saatde, San Francisco'da saat sabah 8 oluyor ve güne yeni başlanıyor.
+Remote çalıştığınız zaman dünyanın herhangi bir yerinde yaşayan bir insan ile beraber çalışma olasılığınız var. Bu da çok ciddi zaman farklılıkları ortaya çıkarabilir. San Francisco ile İstanbul arasında 11 saatlik -yeni zaman dilimine geçtik malum- zaman farkı var. İstanbul'da saat  18:00 olduğu zaman, yani mesainizin bitmesi gerektiği saatde, San Francisco'da saat sabah 07:00 oluyor ve gün daha yeni başlıyor.
 
-Bu aşılamayacak bir sorun degil fakat bunun için şirketin remote çalışma kültürüne yatkın olması gerekiyor. Sizden sürekli onların zaman diliminde çalışmanızı beklemiyor, asenkron iletişim modellerini tercih etmeleri gerekiyor. İstedikleri her an size ulaşamayacaklarını biliyor olmaları gerekiyor. Eğer remote çalıştığınız şirket bu kültürden uzaksa, kolayca o şirketin remote çalışmaya uygun olmadığını söyleyebilirim.
+Bu aşılamayacak bir sorun değil fakat bunun için şirketin remote çalışma kültürüne yatkın olması gerekiyor. Sizden sürekli onların zaman diliminde çalışmanızı beklemiyor, asenkron iletişim modellerini tercih etmeleri gerekiyor. İstedikleri her an size ulaşamayacaklarını biliyor olmaları gerekiyor. Eğer remote çalıştığınız şirket bu kültürden uzaksa, kolayca o şirketin remote çalışmaya uygun olmadığını söyleyebilirim.
 
 Arada bu kadar saat farki varken ekibin sizin ile beraber çalışma istegi elbette olacaktir ve bu tamamen kabul edilebilir bir olay. Aynı proje uzerinde çalıştığınız adamin size soru sormasi gerekebilir ya da beraber çalışmaniz gerekebilir. Bunun için kendi zaman diliminizde 4 saat çalışip onlarin zaman diliminde 2-4 saat daha çalışmak gibi bir modeli tercih edebilirsiniz. Zorunda kalmadikca 1-2 hafta onlarin zaman diliminde çalışmayi kabul etmeyin. Erken yatip erken kalkmak gununuzu daha verimli geçirmeniz için gereken en önemli sey.
 
@@ -56,7 +56,7 @@ Arada bu kadar saat farki varken ekibin sizin ile beraber çalışma istegi elbe
 ## Sosyalleşme eksikliği
 Remote çalışan bir çok kişide görülen bir sendrom. Sürekli evden remote çalışarak 3-4 gün dışarı çıkmamak remote çalışmak değildir. Hatta tam tersi. Istediğiniz yerde çalışma rahatlığınız varken gidin ve bunu kullanın. Bir başka şekli ise ne kadar dışarı çıkıp insan içine karışmış olsanız da, mola verdiğiniz anlarda, kahvenizi, çayınızı paylaşacak bir iş arkadaşını aramanızdır.
 
-Bu sıkıntıları çözmenin en kolay yolu ise coworking space'lerini tercih etmek veya 2-3 saat çalışabileceğiniz ortamı sunan Starbucks gibi yerlerde calışmayı denemektir. Bir başka yolu ise kendi şirketi için ofise sahip olan arkadaşınızın ofisinden haftada 2-3 günlük bir yer ayarlamak olabilir.
+Bu sıkıntıları çözmenin en kolay yolu ise coworking space'lerini tercih etmek veya 2-3 saat çalışabileceğiniz ortamı sunan Starbucks -tüm gün de durabilirsiniz- gibi yerlerde çalışmayı denemektir. Bir başka yolu ise kendi şirketi için ofise sahip olan arkadaşınızın ofisinden haftada 2-3 günlük bir yer ayarlamak olabilir.
 
 
 ## Fiziksel aktivite eksikliği
@@ -76,16 +76,16 @@ Türkiye'de bir şirkette çalıştığınız zaman SSK'niz ödenmeye devam eder
 
 -----
 
-## Remote çalışmak ile ilgili ipuclari
+## Remote çalışmak ile ilgili ipuçları
 
 ### Şirket kültürü
-Remote çalışmaya en kolay, bu kültüre sahip şirketlerde alışabilirsiniz. Şirket remote çalışmayı benimsediği için çalışma saatleriniz, is yapiş sekliniz, şirketin sağladığı faydalar daha belirgin olacaktır. "Haftasonu şunun üzerinde çalıştım ve bitirdim" dediğiniz zaman "Ooo harikasın" diyen şirket ile "Neden haftasonu çalıştın ki?" diyen şirket arasında fark var. Aynı şekilde tatilde olduğunuz dönemde iş yapmanızı bekleyen şirket ile tatilde olduğunuzun farkında olup siz aslında yokmussunuz gibi davranan şirket arasında fark var.
+Remote çalışmaya en kolay, bu kültüre sahip şirketlerde alışabilirsiniz. Şirket remote çalışmayı benimsediği için çalışma saatleriniz, iş yapış şekliniz, şirketin sağladığı faydalar daha belirgin olacaktır. "Haftasonu şunun üzerinde çalıştım ve bitirdim" dediğiniz zaman "Ooo harikasın" diyen şirket ile "Neden haftasonu çalıştın ki?" diyen şirket arasında fark var. Aynı şekilde tatilde olduğunuz dönemde iş yapmanızı bekleyen şirket ile tatilde olduğunuzun farkında olup siz aslında yokmuşsunuz gibi davranan şirket arasında fark var.
 
 
 ### Bu sizin asıl işiniz
-Bunun sizin asıl işiniz oldugunu unutmayın. Evde olmanız çalışmanız gerekmediği ya da az çalışsanız da yeterli olacaği anlamina gelmez. Ne zaman çalıştığınız ve ne zaman bıraktığınız belli olsun ve bunu takım arkadaşlarınız ile paylaşın.
+Bunun sizin asıl işiniz oldugunu unutmayın. Evde olmanız çalışmanız gerekmediği ya da az çalışsanız da yeterli olacağı anlamına gelmez. Kendinizin belirlediği bir çalışma ve zaman disiplininiz olsun, bu öncelikle kendiniz için gerekli. Bunu yaparken de firmanızla ortak kesişim zamanları koymayı ihmal etmeyin. Ne zaman çalıştığınız ve ne zaman bıraktığınız belli olsun ve bunu takım arkadaşlarınız ile paylaşın.
 
-Hoşunuza gitmeyecek bir saatte rahatsız edilmeyi istemiyorsanız ekip arkadaşlarınıza karşı sorumlu olun. Eğer o gün çalışamayacaksanız bunu önceden haber verin. Takımın size ihtiyacı olduğu anda orada olacağınızı bilmesini sağlayın. Eğer o gün bir işiniz varsa önceden haber verin ki kimseye süpriz olmasın.
+Hoşunuza gitmeyecek bir saatte rahatsız edilmeyi istemiyorsanız ekip arkadaşlarınıza karşı sorumlu olun. Eğer o gün çalışamayacaksanız bunu önceden haber verin. Takımın size ihtiyacı olduğu anda orada olacağınızı bilmesini sağlayın. Eğer o gün bir işiniz varsa önceden haber verin ki kimseye süpriz olmasın. Herşeyde olduğu gibi burada da "güven" asıl mesele. Mobil olarak cevapları veririm, kimse anlamaz yaklaşımı sadece kendinizi kandırmanıza yarar. Unutmayın ki kredibiliteniz sizin eylemlerinize göre şekillenir.
 
 Hangi iş üzerinde çalıştığınızı, şuan ne durumda olduğunuzu, ne zaman biteceğini ve yardıma ihtiyacınız olup olmadığını sürekli paylaşın. Ekipten birilerinin üzerinde çalıştığınız iş ile ilgili sorular sormasının normal olduğunu unutmayın. 2-3 gün sessiz kalmanız, kötüye işaret olabilir. O yüzden sorulmasını beklemeden durumunuzu paylaşın ki işinize önem verdiğinizi gösterin.
 
@@ -95,9 +95,9 @@ Eğer çalıştığınız şirketle ile kendi zaman dilimiz arasinda ciddi fark 
 
 
 ### Zaman yönetimi
-Şirketiniz sizden bunu istemiyorsa bile time tracking app'lerini kullanmakta fayda var. Bilgisayarın başında belli süre olmadığınız durumda otomatik olarak süre tutmayı bırakan app'leri tercih edebilirsiniz. Eğer gün içinde ne kadar çalıştığınızdan emin olamıyorsanız, yaptığınız iş yetersiz geliyorsa veya sure ile ilgili rahatsız olduğunuz bir durum varsa bu size ışık tutacaktır.
+Şirketiniz sizden bunu istemiyorsa bile time tracking app'lerini kullanmakta fayda var. Bilgisayarın başında belli süre olmadığınız durumda otomatik olarak süre tutmayı bırakan app'leri tercih edebilirsiniz. Eğer gün içinde ne kadar çalıştığınızdan emin olamıyorsanız, yaptığınız iş yetersiz geliyorsa veya süre ile ilgili rahatsız olduğunuz bir durum varsa bu size ışık tutacaktır.
 
-Remote çalışmakta belki de en önemli noktalardan biri ne zaman bırakmanız gerektiğini bilmektir. İş hiçbir zaman bitmez. Her zaman yapacak bir iş vardır ki şirketin sizi çalıştırmak için geçerli bir nedeni olsun. Dolayısıyla günde 6 saati (bazı şirketlerde 8 saat olabilir) geçtikten sonra çalışmayı bırakın. Ofisten çıkıp gittiğiniz gibi düşünün. Üzerinde çalıştığınız işi eger çok acil değilse bitirmek için 2 saat daha çalışmayın. Şirketin sizden minimum çalışma saati beklediği gibi siz de kendinize maksimum çalışma saati koyun ve ona uyun.
+Remote çalışmakta belki de en önemli noktalardan biri ne zaman bırakmanız gerektiğini bilmektir. İş hiçbir zaman bitmez. Her zaman yapacak bir iş vardır ki şirketin sizi çalıştırmak için geçerli bir nedeni olsun. Dolayısıyla günde 6 saati (bazı şirketlerde 8 saat olabilir) geçtikten sonra çalışmayı bırakın. Ofisten çıkıp gittiğiniz gibi düşünün. Üzerinde çalıştığınız işi eğer çok acil değilse bitirmek için 2 saat daha çalışmayın. Şirketin sizden minimum çalışma saati beklediği gibi siz de kendinize maksimum çalışma saati koyun ve ona uyun.
 
 
 ### İngilizce
@@ -105,7 +105,7 @@ Remote çalışmanın olmazsa olmazı. İngilizce bilmiyorsanız, anadiliniz dı
 
 
 ### Çalışma odası
-Günde en az 6 saat geçireceğiniz bir odayı sizi en rahat ettirecek şekilde duzenleyin. Unutmayın bu sizin asıl işiniz. O yüzden televizyon karşısında, mutfakta masa üstünde veya salonda koltuk üstünde bu çalışma şekli sürdürülemez.
+Günde en az 6 saat geçireceğiniz bir odayı sizi en rahat ettirecek şekilde düzenleyin. Unutmayın bu sizin asıl işiniz. O yüzden televizyon karşısında, mutfakta masa üstünde veya salonda koltuk üstünde bu çalışma şekli sürdürülemez.
 
 Remote olmayan bir şirketin size sağladığı ofis gibi bir ofis oluşturmaya çalışın. Güzel bir bilgisayar, harici monitör veya monitörler, uzun süre oturduğunuzda rahatsız etmeyecek sandalye, büyük bir masa, odaklanmak istediğiniz anlar için kaliteli bir kulaklık, sesli müzik dinlemek istediğiniz zamanlar için güzel bir ses sistemi, sesli ve görüntülü görüşmeler için kamera ve mikrofon ve belki de en önemlisi hızlı internete sahip olmanız hayatınızı daha kolaylaştıracaktır. Unutmayın ekip arkadaşlarınız ile konuşmaya çalıştığınız anlarda internetinizin yavaş olması, kameranın onunden sürekli birilerinin gelip gecmesi, sesinizin karsi tarafa düzgün gitmemesi, arka planda gürültü olması gibi olumsuzluklar sizi profesyonel göstermeyecektir.
 
@@ -113,7 +113,7 @@ Remote olmayan bir şirketin size sağladığı ofis gibi bir ofis oluşturmaya 
 ### Yapılacak iş yönetimi
 Hangi iş üzerinde çalıştığınızı, ne zaman biteceğini ve sonrasında ne yapacağınızı önceden bilin. Mümkün oldukça "bundan sonra ne iş yapacağım" diye sormamaya çalışın. Bunu önceden planlamaya çalışın. Eğer planlayamadığınız bir şirkette veya projede çalışıyorsanız bunun sizle alakalı olmadığını belirtin. Ayrıca işiniz ile doğrudan alakalı olan insanlara işinizin durumu ile ilgili soru sormalarını beklemeden bilgi verin. "Bugün bunu yaptım, sanırım yarın bitecek" dediğiniz zaman doğru yapıyorsunuzdur. Aynı şekilde 2-3 gün boyunca kimseyle konuşmuyorsanız yanlış yapıyorsunuzdur diyebilirim. Ekibin içinde kalın.
 
-Remote çalışmada, iş teslim etmek, "deliver etmek", çok önemlidir. İşlerinizi zamanında deliver etmeye özen gösterin. Eğer herhangi bir nedenden dolayı olmayacaksa bunu olabildiğince önce belirtin ki ona göre önlem alınabilsin.
+Remote çalışmada, iş teslim etmek, "deliver etmek", çok önemlidir. İşlerinizi zamanında teslim etmeye özen gösterin. Eğer herhangi bir nedenden dolayı olmayacaksa bunu olabildiğince önce belirtin ki ona göre önlem alınabilsin.
 
 
 ### Takımın parçası olmak
