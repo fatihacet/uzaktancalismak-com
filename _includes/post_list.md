@@ -2,3 +2,4 @@
 - [Uzaktan çalışmak](https://medium.com/turkce/uzaktan-%C3%A7al%C4%B1%C5%9Fmak-e827e6e54360#.4foiq6cnn) - [Gökmen Görgen](https://twitter.com/gokmengorgen)
 - [Uzaktan Çalışma Deneyimim - İşverenler ve İş Arkadaşları](http://eser.ozvataf.com/uzaktan-calisma-deneyimim-isverenler-ve-is-arkadaslari/) - [Eser Özvataf](https://twitter.com/eserozvataf)
 - [Uzaktan Çalışma Deneyimim - Kişisel Organizasyon](http://eser.ozvataf.com/uzaktan-calisma-deneyimim-kisisel-organizasyon/) - [Eser Özvataf](https://twitter.com/eserozvataf)
+- [Evden Çalışmak](https://medium.com/turkce/evden-çalışmak-e8429a7966bb) - [Abdullah Uğraşkan](https://twitter.com/apostylee)
