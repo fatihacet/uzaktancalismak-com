@@ -8,4 +8,5 @@
 - [GitHub Jobs](https://jobs.github.com/positions?description=&location=remote)
 - [Go Remote](https://goremote.io)
 - [HackerNews Who is hiring?](https://news.ycombinator.com/item?id=12627852)
+- [Netsparker Ltd.](https://www.netsparker.com/jobs/) 
 - [Crossover](https://www.crossover.com/)
