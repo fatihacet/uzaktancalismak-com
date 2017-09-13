@@ -2,7 +2,7 @@
 {:toc}
 
 ## Mekan bağımsız çalışmak
-Uzaktan çalışmanın en büyük avantajlarından biri, çalışmak için belirli bir yerde olma veya fiziksel bir ofise gidip gelme zorunluluğunun olmamasıdır. Bilgisayarınızın ve internetin olduğu her yerde çalışabilirsiniz. Deniz kenarındaki yazlık, evinizin balkonu veya aklınıza gelen her yer çalışmak için uygun olabilir. Hatta [calışarak dünyayı bile gezebilirsiniz](https://about.gitlab.com/2016/08/24/gitlab-in-action/).
+Uzaktan çalışmanın en büyük avantajlarından biri, çalışmak için belirli bir yerde olma veya fiziksel bir ofise gidip gelme zorunluluğunun olmamasıdır. Bilgisayarınızın ve internetin olduğu her yerde çalışabilirsiniz. Deniz kenarındaki yazlık, evinizin balkonu veya aklınıza gelen her yer çalışmak için uygun olabilir. Hatta [çalışarak dünyayı bile gezebilirsiniz](https://about.gitlab.com/2016/08/24/gitlab-in-action/).
 
 
 ## Zaman konusunda esnek olabilmek
@@ -48,7 +48,7 @@ Her şeyden önemlisi ailenize, sevdiklerinize ayırdığınız vakitten feragat
 ## Zaman farklılıkları
 Uzaktan çalıştığınız zaman dünyanın herhangi bir yerinde yaşayan bir insan ile beraber çalışma olasılığınız var. Bu da çok ciddi zaman farklılıkları ortaya çıkarabilir. San Francisco ile İstanbul arasında 11 saatlik zaman farkı var. İstanbul'da saat  18:00 olduğu zaman, yani mesainizin bitmesi gerektiği saatde, San Francisco'da saat sabah 07:00 oluyor ve gün daha yeni başlıyor.
 
-Bu aşılamayacak bir sorun değil fakat bunun için şirketin uzaktan çalışma kültürüne yatkın olması gerekiyor. Sizden sürekli onların zaman diliminde çalışmanızı beklemiyor, asenkron iletişim modellerini tercih etmeleri gerekiyor. İstedikleri her an size ulaşamayacaklarını biliyor olmaları gerekiyor. Eğer remote çalıştığınız şirket bu kültürden uzaksa, kolayca o şirketin uzaktan çalışmaya uygun olmadığını söyleyebilirim.
+Bu aşılamayacak bir sorun değil fakat bunun için şirketin uzaktan çalışma kültürüne yatkın olması gerekiyor. Sizden sürekli onların zaman diliminde çalışmanızı beklemiyor, asenkron iletişim modellerini tercih etmeleri gerekiyor. İstedikleri her an size ulaşamayacaklarını biliyor olmaları gerekiyor. Eğer uzaktan çalıştığınız şirket bu kültürden uzaksa, kolayca o şirketin uzaktan çalışmaya uygun olmadığını söyleyebilirim.
 
 Arada bu kadar saat farki varken ekibin sizin ile beraber çalışma istegi elbette olacaktir ve bu tamamen kabul edilebilir bir olay. Aynı proje uzerinde çalıştığınız adamin size soru sormasi gerekebilir ya da beraber çalışmaniz gerekebilir. Bunun için kendi zaman diliminizde 4 saat çalışip onlarin zaman diliminde 2-4 saat daha çalışmak gibi bir modeli tercih edebilirsiniz. Zorunda kalmadikca 1-2 hafta onlarin zaman diliminde çalışmayi kabul etmeyin. Erken yatip erken kalkmak gununuzu daha verimli geçirmeniz için gereken en önemli sey.
 
@@ -56,7 +56,7 @@ Arada bu kadar saat farki varken ekibin sizin ile beraber çalışma istegi elbe
 ## Sosyalleşme eksikliği
 Uzaktan çalışan bir çok kişide görülen bir sendrom. Sürekli evden çalışarak 3-4 gün dışarı çıkmamak uzaktan çalışmak değildir. Hatta tam tersi. Istediğiniz yerde çalışma rahatlığınız varken gidin ve bunu kullanın. Bir başka şekli ise ne kadar dışarı çıkıp insan içine karışmış olsanız da, mola verdiğiniz anlarda, kahvenizi, çayınızı paylaşacak bir iş arkadaşını aramanızdır.
 
-Bu sıkıntıları çözmenin en kolay yolu ise coworking space'lerini tercih etmek veya 2-3 saat çalışabileceğiniz ortamı sunan Starbucks -tüm gün de durabilirsiniz- gibi yerlerde çalışmayı denemektir. Bir başka yolu ise kendi şirketi için ofise sahip olan arkadaşınızın ofisinden haftada 2-3 günlük bir yer ayarlamak olabilir.
+Bu sıkıntıları çözmenin en kolay yolu ise coworking space'lerini tercih etmek veya uzun süre çalışabileceğiniz ortamı sunan Starbucks gibi yerlerde çalışmayı denemektir. Bir başka yolu ise kendi şirketi için ofise sahip olan arkadaşınızın ofisinden haftada 2-3 günlük bir yer ayarlamak olabilir.
 
 
 ## Fiziksel aktivite eksikliği
@@ -79,7 +79,7 @@ Türkiye'de bir şirkette çalıştığınız zaman SSK'niz ödenmeye devam eder
 ## Uzaktan çalışmak ile ilgili ipuçları
 
 ### Şirket kültürü
-Uzaktan çalışmaya en kolay, bu kültüre sahip şirketlerde alışabilirsiniz. Şirket remote çalışmayı benimsediği için çalışma saatleriniz, iş yapış şekliniz, şirketin sağladığı faydalar daha belirgin olacaktır. "Haftasonu şunun üzerinde çalıştım ve bitirdim" dediğiniz zaman "Ooo harikasın" diyen şirket ile "Neden haftasonu çalıştın ki?" diyen şirket arasında fark var. Aynı şekilde tatilde olduğunuz dönemde iş yapmanızı bekleyen şirket ile tatilde olduğunuzun farkında olup siz aslında yokmuşsunuz gibi davranan şirket arasında fark var.
+Uzaktan çalışmaya en kolay, bu kültüre sahip şirketlerde alışabilirsiniz. Şirket uzaktan çalışmayı benimsediği için çalışma saatleriniz, iş yapış şekliniz, şirketin sağladığı faydalar daha belirgin olacaktır. "Haftasonu şunun üzerinde çalıştım ve bitirdim" dediğiniz zaman "Ooo harikasın" diyen şirket ile "Neden haftasonu çalıştın ki?" diyen şirket arasında fark var. Aynı şekilde tatilde olduğunuz dönemde iş yapmanızı bekleyen şirket ile tatilde olduğunuzun farkında olup siz aslında yokmuşsunuz gibi davranan şirket arasında fark var.
 
 
 ### Bu sizin asıl işiniz
