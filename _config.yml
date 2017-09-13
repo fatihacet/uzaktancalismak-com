@@ -12,6 +12,6 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-title: "Remote Çalışmak"
-subtitle: "Remote çalışmak ile ilgili bilmek istediğiniz her şey"
+title: "Uzaktan Çalışmak"
+subtitle: "Uzaktan çalışmak ile ilgili bilmek istediğiniz her şey"
 markdown: kramdown

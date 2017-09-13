@@ -32,8 +32,32 @@
 }
 
 @media only screen and (max-width: 767px) {
+  header .navbar-collapse {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: none;
+  }
+
+  header .navbar-default .navbar-collapse li {
+    padding: 0;
+    margin-right: 10px;
+  }
+
+  header .navbar-default .navbar-collapse li a {
+    padding: 0;
+    line-height: 1.53;
+    text-align: right;
+  }
+
+  .navbar-nav {
+    margin: 0;
+  }
+
   header .navbar-brand {
-    width: 250px;
+    width: 60%;
+    position: relative;
+    top: 7px;
   }
   .heading {
     padding-left: 0px;
@@ -88,7 +112,8 @@
   #content .block-bottom .item-img {
     padding-left: 0px;
   }
-  footer .footer-menu {
-    display: none;
+  footer .footer-menu ul li {
+    font-size: 14px;
+    padding: 0 12px;
   }
 }
