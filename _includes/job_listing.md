@@ -1,3 +1,4 @@
+- [YouTube kanalımda yayınladığım uzaktan çalışılacak iş bulmak konulu video](https://www.youtube.com/watch?v=mXs1ievO6Ao)
 - [We Work Remotely](https://weworkremotely.com)
 - [Remote OK](https://remoteok.io)
 - [Remotive Jobs](http://jobs.remotive.io)
@@ -8,5 +9,5 @@
 - [GitHub Jobs](https://jobs.github.com/positions?description=&location=remote)
 - [Go Remote](https://goremote.io)
 - [HackerNews Who is hiring?](https://news.ycombinator.com/item?id=12627852)
-- [Netsparker Ltd.](https://www.netsparker.com/jobs/) 
+- [Netsparker Ltd.](https://www.netsparker.com/jobs/)
 - [Crossover](https://www.crossover.com/)
