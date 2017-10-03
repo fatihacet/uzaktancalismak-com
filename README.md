@@ -26,3 +26,8 @@ Projeye destek olmak için GitHub üzerinden Pull Request veya [GitLab](https://
   - `_includes/post-list.md` -> Blog yazılarının listendiği içerik
 
 Bu sayfalardan herhangi birini değiştirip katkıda bulunabilirsiniz.
+
+
+### Local'de projeyi ayağa kaldırmak
+
+- `bundle exec jekyll serve`
