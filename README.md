@@ -21,9 +21,9 @@ gibi özellikler eklemeyi düşünüyorum.
 Projeye destek olmak için GitHub üzerinden Pull Request veya [GitLab](https://gitlab.com/fatihacet/uzaktancalismak-com) üzerinden Merge Request gönderebilirsiniz. Proje Jekyll ile geliştirilmiştir ve GitLab Pages üzerinde host edilmektedir.
 
 ##### Onemli sayfalara linkler
-  - `_includes/main-content.md` -> Anasayfa içeriği
+  - `_includes/main_content.md` -> Anasayfa içeriği
   - `_includes/job_listing.md` -> İş linklerinin listendiği içerik
-  - `_includes/post-list.md` -> Blog yazılarının listendiği içerik
+  - `_includes/post_list.md` -> Blog yazılarının listendiği içerik
 
 Bu sayfalardan herhangi birini değiştirip katkıda bulunabilirsiniz.
 
