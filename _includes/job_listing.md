@@ -9,6 +9,7 @@
 - [GitHub Jobs](https://jobs.github.com/positions?description=&location=remote)
 - [Go Remote](https://goremote.io)
 - [HackerNews Who is hiring?](https://news.ycombinator.com/item?id=12627852)
+- [Remote.com](https://www.remote.com)
 
 ### Firmalar
 - [Crossover](https://www.crossover.com/)
