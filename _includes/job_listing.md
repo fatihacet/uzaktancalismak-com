@@ -15,4 +15,5 @@
 - [Crossover](https://www.crossover.com/)
 - [Gitlab](https://about.gitlab.com/jobs/)
 - [Netsparker](https://www.netsparker.com/jobs/)
+- [Picus Security](https://www.picussecurity.com/careers.html)
 - [Radity](https://www.linkedin.com/company/2659544/)
