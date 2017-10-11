@@ -18,3 +18,5 @@
 - [Picus Security](https://www.picussecurity.com/careers.html)
 - [Radity](https://www.linkedin.com/company/2659544/)
 - [Red Hat](https://www.redhat.com/en/jobs)
+- [Bulut Yazılım](bulutyazilim.com)
+- [Yurdum Yazılım](yurdumyazilim.com)
