@@ -20,3 +20,4 @@
 - [Red Hat](https://www.redhat.com/en/jobs)
 - [Bulut Yazılım](bulutyazilim.com)
 - [Yurdum Yazılım](yurdumyazilim.com)
+- [Logsign](https://www.logsign.com)
