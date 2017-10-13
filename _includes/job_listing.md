@@ -1,4 +1,4 @@
-### Video içerik
+### Video içerikler
 
 - [YouTube kanalımda yayınladığım uzaktan çalışılacak iş bulmak konulu video](https://www.youtube.com/watch?v=mXs1ievO6Ao)
 
@@ -22,7 +22,7 @@
 
 ### Uzaktan çalışmaya izin veren yerler
 
-#### Türk şirketleri
+### Türk şirketleri
 - [Bulut Yazılım](bulutyazilim.com)
 - [Hipolabs](https://hipolabs.com/)
 - [Netsparker](https://www.netsparker.com/jobs/)
@@ -30,7 +30,7 @@
 - [Radity](https://www.linkedin.com/company/2659544/)
 - [Yurdum Yazılım](yurdumyazilim.com)
 
-#### Diğer şirketler
+### Diğer şirketler
 - [Crossover](https://www.crossover.com/)
 - [Gitlab](https://about.gitlab.com/jobs/)
 - [Logsign](https://www.logsign.com)

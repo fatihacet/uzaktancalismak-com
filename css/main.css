@@ -179,6 +179,7 @@ footer .footer-menu ul li a:hover {
 }
 .call-for-action p {
   font-size: 16px;
+  margin-bottom: 0;
 }
 .call-for-action i {
   font-size: 72px;
