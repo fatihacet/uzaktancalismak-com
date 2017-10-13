@@ -23,15 +23,15 @@
 ### Uzaktan çalışmaya izin veren yerler
 
 #### Türk şirketleri
-- [Netsparker](https://www.netsparker.com/jobs/)
 - [Bulut Yazılım](bulutyazilim.com)
-- [Yurdum Yazılım](yurdumyazilim.com)
 - [Hipolabs](https://hipolabs.com/)
+- [Netsparker](https://www.netsparker.com/jobs/)
 - [Picus Security](https://www.picussecurity.com/careers.html)
+- [Radity](https://www.linkedin.com/company/2659544/)
+- [Yurdum Yazılım](yurdumyazilim.com)
 
 #### Diğer şirketler
-- [Gitlab](https://about.gitlab.com/jobs/)
 - [Crossover](https://www.crossover.com/)
-- [Radity](https://www.linkedin.com/company/2659544/)
-- [Red Hat](https://www.redhat.com/en/jobs)
+- [Gitlab](https://about.gitlab.com/jobs/)
 - [Logsign](https://www.logsign.com)
+- [Red Hat](https://www.redhat.com/en/jobs)
