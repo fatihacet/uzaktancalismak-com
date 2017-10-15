@@ -23,7 +23,7 @@
 ### Uzaktan çalışmaya izin veren yerler
 
 ### Türk şirketleri
-- [Bulut Yazılım](bulutyazilim.com)
+- [Bulut Yazılım](https://bulutyazilim.com/)
 - [Countly](https://count.ly/)
 - [Hipolabs](https://hipolabs.com/)
 - [Netsparker](https://www.netsparker.com/jobs/)
