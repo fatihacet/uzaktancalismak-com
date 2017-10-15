@@ -19,6 +19,8 @@
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote-developer-jobs)
 - [GitHub Jobs](https://jobs.github.com/positions?description=&location=remote)
 - [HackerNews Who is hiring?](https://news.ycombinator.com/item?id=12627852)
+- [Upwork](https://upwork.com/)
+- [Hubstaff Talent](https://talent.hubstaff.com/)
 
 ### Uzaktan çalışmaya izin veren yerler
 
