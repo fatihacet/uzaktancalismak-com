@@ -31,7 +31,7 @@
 - [Netsparker](https://www.netsparker.com/jobs/)
 - [Picus Security](https://www.picussecurity.com/careers.html)
 - [Radity](https://www.linkedin.com/company/2659544/)
-- [Yurdum Yazılım](yurdumyazilim.com)
+- [Yurdum Yazılım](https://www.yurdumyazilim.com)
 
 ### Diğer şirketler
 - [Crossover](https://www.crossover.com/)
