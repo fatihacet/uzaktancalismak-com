@@ -3,3 +3,4 @@
 - [Uzaktan Çalışma Deneyimim - İşverenler ve İş Arkadaşları](http://eser.ozvataf.com/uzaktan-calisma-deneyimim-isverenler-ve-is-arkadaslari/) - [Eser Özvataf](https://twitter.com/eserozvataf)
 - [Uzaktan Çalışma Deneyimim - Kişisel Organizasyon](http://eser.ozvataf.com/uzaktan-calisma-deneyimim-kisisel-organizasyon/) - [Eser Özvataf](https://twitter.com/eserozvataf)
 - [Evden Çalışmak](https://medium.com/turkce/evden-çalışmak-e8429a7966bb) - [Abdullah Uğraşkan](https://twitter.com/apostylee)
+- [Uzaktan Çalışma Maceram: İlk 1 Ay](https://medium.com/@serhatcan/uzaktan-calisma-maceram-ilk-bir-ay-f458e7e06e1a) - [Serhat Can](https://twitter.com/srhtcn)
