@@ -4,3 +4,4 @@
 - [Uzaktan Çalışma Deneyimim - Kişisel Organizasyon](http://eser.ozvataf.com/uzaktan-calisma-deneyimim-kisisel-organizasyon/) - [Eser Özvataf](https://twitter.com/eserozvataf)
 - [Evden Çalışmak](https://medium.com/turkce/evden-çalışmak-e8429a7966bb) - [Abdullah Uğraşkan](https://twitter.com/apostylee)
 - [Uzaktan Çalışma Maceram: İlk 1 Ay](https://medium.com/@serhatcan/uzaktan-calisma-maceram-ilk-bir-ay-f458e7e06e1a) - [Serhat Can](https://twitter.com/srhtcn)
+- [Neden bir ofisimiz yok?](https://medium.com/turkce/neden-bir-ofisimiz-yok-3a98553f4613) - [Görkem Çetin](https://twitter.com/gorkemcetin)
