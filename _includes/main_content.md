@@ -24,7 +24,7 @@ Hem çalışan, hem şirket için daha ucuzdur. Şirketler dünyanın her yerind
 ## Şirket faktörü
 Uzaktan çalışmak için iş aramaya başladığınız zaman, yetenekleriniz doğrultusunda önünüzde bir sürü seçenek olduğunu göreceksiniz. Dünyanın herhangi bir yerindeki şirket ile çalışabilirsiniz. Bu şirketlerin çalışanlarına sağladığı olanaklar çoğu zaman Türkiye'deki şirketlerden daha güzel ve kapsamlı oluyor. Şirketler internet faturanızı, spor salonu ücretlerinizi, monitör, bilgisayar, çalışma sandalyesi gibi ihtiyaçlarınızı karşılayabiliyor. Örneğin [GitLab](https://about.gitlab.com/handbook/benefits/#general-benefits), [DigitalOcean](https://www.digitalocean.com/company/careers/#perks), [Toptal](https://www.toptal.com/careers#benefits).
 
-Şirketiniz vize sponsoru olarak yurt dışında yasamanızı sağlayabilir veya varsa şirketin ofisine tanışma, çalışma amacıyla ziyarete gidebilirsiniz. Bu sayede yeni yerler, farklı kültürler görebilirsiniz. Örneğin, GitLab Mayıs 2016'da Austin'de 75 kişinin katıldığı bir etkinlik yaptı, Ocak 2017'de 120'den fazla çalışanı ile Mexico'da yeni bir etkinlik yapacak.
+Şirketiniz vize sponsoru olarak yurt dışında yaşamanızı sağlayabilir veya varsa şirketin ofisine tanışma, çalışma amacıyla ziyarete gidebilirsiniz. Bu sayede yeni yerler, farklı kültürler görebilirsiniz. Örneğin, GitLab Mayıs 2016'da Austin'de 75 kişinin katıldığı bir etkinlik yaptı, Ocak 2017'de 120'den fazla çalışanı ile Mexico'da yeni bir etkinlik yapacak.
 
 
 ## Kültürel farklılıklar
