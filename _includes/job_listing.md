@@ -32,6 +32,7 @@
 - [Picus Security](https://www.picussecurity.com/careers.html)
 - [Radity](https://www.linkedin.com/company/2659544/)
 - [Yurdum Yazılım](yurdumyazilim.com)
+- [Moneo](itsmoneo.com/)
 
 ### Diğer şirketler
 - [Crossover](https://www.crossover.com/)
