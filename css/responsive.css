@@ -39,6 +39,12 @@
     border: none;
   }
 
+  header .kodilan {
+    padding-right: 10px;
+    text-align: center;
+    font-size: 13px;
+  }
+
   header .navbar-default .navbar-collapse li {
     padding: 0;
     margin-right: 10px;
