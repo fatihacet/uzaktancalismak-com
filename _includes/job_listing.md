@@ -3,7 +3,7 @@
 - [YouTube kanalımda yayınladığım uzaktan çalışılacak iş bulmak konulu video](https://www.youtube.com/watch?v=mXs1ievO6Ao)
 
 ### İş ilanlarının listelendiği yerler
-
+- [kodilan.com](https://kodilan.com/ilan-ara?location=Remote&ref=uzaktancalismak)
 - [We Work Remotely](https://weworkremotely.com)
 - [Remote OK](https://remoteok.io)
 - [Remote.co](https://remote.co)
